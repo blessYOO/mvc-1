@@ -1,0 +1,8 @@
+hello/memberService/MemberServiceApplication.java
+ hello.memberService.MemberServiceApplication
+hello/memberService/domain/member/Member.java
+ hello.memberService.domain.member.Member
+hello/memberService/domain/member/MemberRepository.java
+ hello.memberService.domain.member.MemberRepository
+hello/memberService/web/basic/BasicMemberController.java
+ hello.memberService.web.basic.BasicMemberController

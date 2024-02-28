@@ -32,6 +32,7 @@ public class BasicItemController {
         return "basic/item";
     }
 
+    /** 등록 화면으로 이동 */
     @GetMapping("/add")
     public String addForm() {
         return "basic/addForm";
